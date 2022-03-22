@@ -1,16 +1,14 @@
-### Hi there 👋
+# Привет! Меня зовут Нурия! 👋😃
 
-<!--
-**nuri-tix/nuri-tix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Занимаюсь версткой сайтов и очень люблю свое дело 😍
+### Прошла курс по верстке сайтов от Annblok.ru 🎓
 
-Here are some ideas to get you started:
+##### Мои тренировочные сайты:
+* [Burger](https://nuri-tix.github.io/Module01-Burger/)
+* [Тренировки](https://nuri-tix.github.io/Module01-Gym/)
+* [Здоровое питание]( https://nuri-tix.github.io/Module02-Shop/dist/) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### С удовольствием и качественно сверстаю ваш макет
+
+### Чтобы связаться со мной напишите мне на [почту](tixxxonoffa@yandex.ru) или [telegram](@nuri_tix) 
+
